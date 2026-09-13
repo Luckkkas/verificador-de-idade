@@ -1,0 +1,52 @@
+body {
+    background: rgb(70, 170, 240);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+div {
+    margin: 10px;
+}
+
+input {
+    font: normal 15pt Arial;
+}
+
+input[type="button"] {
+    padding: 5px 15px;
+    cursor: pointer;
+}
+
+#res {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#foto {
+    display: block;
+    margin: 20px auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    margin-top: 15px;
+}
