@@ -1,1 +1,27 @@
+# 🎂 Verificador de Idade
 
+Projeto de um verificador de idade feito com HTML, CSS e JavaScript.
+
+## 🛠️ Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+
+## 📚 O que pratiquei
+
+- Variáveis
+- Funções
+- Condicionais `if` e `else`
+- Manipulação do DOM
+- Eventos
+- Entrada de dados
+- Cálculos com datas e idade
+
+## 🚀 Como executar
+
+Abra o arquivo `index.html` no navegador.
+
+## 👨‍💻 Autor
+
+@Luckkkas
